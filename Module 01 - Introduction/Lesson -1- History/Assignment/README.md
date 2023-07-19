@@ -11,7 +11,7 @@ Explain how programming can be used for problem-solving. Provide an example of a
 Discuss the future of programming. What trends do you foresee in the next decade?
 
 # Submission Guidelines
-1. Submit your assignment as a PDF document.
+1. Submit your assignment as a PDF document. Here is the link of Submit your pdf file (https://drive.google.com/drive/folders/1PAoz0IpevJ66HEJcY-Y5d_iRvRDta5zM?usp=sharing)
 2. All writing must be your own. Plagiarism will result in a zero for the entire assignment.
 3. Cite all sources used.
 4. Due date: 20/07/2023 at 10:00 PM.
