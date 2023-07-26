@@ -21,29 +21,29 @@ public class input {
 }
 ```
 # Task 1: Understanding the Code
-What is the purpose of import java.util.Scanner at the beginning of the program?
-What does the Scanner class do?
-What does the System.out.println(x>y) statement do? What will it output and why?
-What does the System.out.println(x==y) statement do? What will it output and why?
-What does the System.out.println(x!=y) statement do? What will it output and why?
-What does the System.out.println(x%y) statement do? What will it output and why?
-What does the System.out.println(x>=9) statement do? What will it output and why?
+1. What is the purpose of import java.util.Scanner at the beginning of the program?
+2. What does the Scanner class do?
+3. What does the System.out.println(x>y) statement do? What will it output and why?
+4. What does the System.out.println(x==y) statement do? What will it output and why?
+5. What does the System.out.println(x!=y) statement do? What will it output and why?
+6. What does the System.out.println(x%y) statement do? What will it output and why?
+7. What does the System.out.println(x>=9) statement do? What will it output and why?
 # Task 2: Uncommenting and Understanding the Code
 Uncomment the commented code and answer the following questions:
 
-What does the int a = in.nextInt() line do?
-What does the float b = in.nextFloat() line do?
-What does the boolean check = in.nextBoolean() line do?
-What does the char ch = in.next().charAt(0) line do?
-What does the String str = in.next() line do?
-What does the String str =in.nextLine() line do?
+1. What does the int a = in.nextInt() line do?
+2. What does the float b = in.nextFloat() line do?
+3. What does the boolean check = in.nextBoolean() line do?
+4. What does the char ch = in.next().charAt(0) line do?
+5. What does the String str = in.next() line do?
+6. What does the String str =in.nextLine() line do?
 # Task 3: Modifying the Code
 ## Modify the code to do the following:
 
-Ask the user to input two integers, a and b.
-Print out the sum, difference, product, and quotient (as a floating-point number) of a and b.
-Ask the user to input a boolean value, a character, and a line of text.
-Print out the boolean value, character, and line of text.
+1. Ask the user to input two integers, a and b.
+2. Print out the sum, difference, product, and quotient (as a floating-point number) of a and b.
+3. Ask the user to input a boolean value, a character, and a line of text.
+4. Print out the boolean value, character, and line of text.
 
 Please submit your assignment "https://drive.google.com/drive/folders/1JRhVadyE9_uHI1ya8y7K51cEN_RomCQG?usp=sharing" 
 
