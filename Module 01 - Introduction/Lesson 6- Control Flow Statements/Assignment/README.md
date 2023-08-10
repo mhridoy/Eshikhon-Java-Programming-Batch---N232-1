@@ -1,24 +1,26 @@
-# Python Basics Assignment: For Loops with If-Else
+# Assignment: The Mysterious Island's Light Puzzle
 
-## Objective: Familiarize yourself with the basic usage of for loops and if-else conditions in Python.
+On a mysterious island, there's a puzzle that needs to be solved to open the entrance to a hidden treasure. The puzzle consists of a series of lights, each with its own switch. The island's legend says:
 
-### Positive or Negative:
+```"To find the treasure that's out of sight,
+Turn on the lights, but not quite right.
+Every third light should be off in the row,
+Use the power of bits to make the entrance show."
+```
+### Your task is to write a program that simulates this puzzle:
 
-Write a Python program that prompts the user to input 5 numbers (one at a time).
-For each number, the program should print whether the number is positive, negative, or zero.
-### Even or Odd:
+There are N lights in a row, initially all turned off.
+You can only use bitwise operations to solve the puzzle.
+Every third light in the row should be turned off. All other lights should be turned on.
+Input:
 
-Write a Python program that prompts the user to input 10 numbers (one at a time).
-For each number, the program should print whether the number is even or odd.
-### Multiples of a Number:
+### An integer N representing the number of lights in the row (1 ≤ N ≤ 1000).
 
-### Write a Python program that asks the user for a number n.
-Print the first 10 multiples of n.
+## Output:
+A binary string of length N representing the state of each light. '1' means the light is on, and '0' means the light is off.
 
-### Write a Python program that asks the user to input 5 grades (between 0 and 100).
-For each grade:
-If the grade is between 90 and 100, print "A".
-If the grade is between 80 and 89, print "B".
-If the grade is between 70 and 79, print "C".
-If the grade is between 60 and 69, print "D".
-If the grade is below 60, print "F".
+## Example:
+For N = 10, the output should be 1101101101.
+
+### Hint:
+Consider using the bitwise AND operation to determine the state of each light.
